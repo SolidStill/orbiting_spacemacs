@@ -1,5 +1,5 @@
 # orbiting_spacemacs
-
+Replace contents of emacs.d/private/ with contents of this repo and symlink .spacemacs to expected path
 
 
 ## Crucially: 
